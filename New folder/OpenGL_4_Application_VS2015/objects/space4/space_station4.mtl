@@ -1,0 +1,736 @@
+# Blender MTL File: 'None'
+# Material Count: 64
+
+newmtl Armour
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.476000 0.489400 0.933800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Armour_albedo.jpeg
+
+newmtl Armour.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.476000 0.489400 0.933800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Armour_metallic.jpeg
+
+newmtl Drohn_1
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.189189 0.189189 0.189189
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\red.jpg
+
+newmtl Helmet
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.651200 0.195800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Helmet_albedo.jpeg
+
+newmtl Helmet.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 0.651200 0.195800
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Helmet_metallic.jpeg
+
+newmtl Holo_Green
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.092350 0.640000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.230875 1.600001 0.000000
+Ni 1.000000
+d 0.445946
+illum 2
+map_Kd \..\..\textures\space4\black.png
+
+newmtl ImportColorMat
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\ImportColorMat_albedo.jpeg
+
+newmtl ImportColorMat.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\ImportColorMat_metallic.jpeg
+
+newmtl Laser-Tower
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\t1_UVMap_color.jpg
+map_Bump \..\..\textures\space4\t1_UVMap_nmap.jpg
+map_Ks \..\..\textures\space4\t1_UVMap_rough.jpg
+
+newmtl Mochila_text
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Mochila_text_albedo.jpeg
+
+newmtl Mochila_text.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.500000 0.500000 0.500000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Mochila_text_metallic.jpeg
+
+newmtl None
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl None_prbrown.jpg
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.800000 0.800000 0.800000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prbrown.jpg
+
+newmtl Panic_Bot.001
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\InfoBot_Panic_Bot_color.jpg
+map_Bump \..\..\textures\space4\InfoBot_Panic_Bot_nmap.jpg
+
+newmtl Railing
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Railings_texture_UVMap_color.jpg
+map_Bump \..\..\textures\space4\Railings_texures_UVMap_nmap.jpg
+
+newmtl Red_Laser
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.014753 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.599999 0.036882 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\t1_UVMap_color.jpg
+
+newmtl Red_Text
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.014753 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 1.599999 0.036882 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\red.jpg
+
+newmtl Sartfighter
+Ns 100.000000
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\texture_3_UVMap_color.jpg
+map_Bump \..\..\textures\space4\texture_3_UVMap_nmap.jpg
+map_Ks \..\..\textures\space4\texture_3_UVMap_rough.jpg
+
+newmtl Star_Fighter_Fire
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.166179 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Station-Inside
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\Room_1_Done_UVMap_color_3.png
+map_Bump \..\..\textures\space4\Room_1_Done_UVMap_nmap.png
+map_Ka \..\..\textures\space4\Room_1_Done_UVMap_nmap.png
+map_Ks \..\..\textures\space4\Room_1_Done_UVMap_rough.png
+
+newmtl Station-Outside
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\out_side_UVMap_color.jpg
+map_Bump \..\..\textures\space4\out_side_UVMap_nmap.jpg
+
+newmtl Windows
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.427451
+illum 2
+map_Kd \..\..\textures\space4\glass.png
+
+newmtl door
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.072432 0.072432 0.072432
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\metal.jpg
+
+newmtl hologram
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.256759 0.640000 0.585948
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.207101
+illum 2
+map_Kd \..\..\textures\space4\black.png
+
+newmtl hologram_ground
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.189189 0.189189 0.189189
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\red.jpg
+
+newmtl hologram_radar-blue
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.058377 0.454233 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.145942 1.135582 1.599999
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\red.jpg
+
+newmtl prblue1mat
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prblue1.jpg
+map_Ke \..\..\textures\space4\prblue1.jpg
+
+newmtl prbluemat
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.758033 0.758033 0.758033
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prblue.jpg
+map_Ka \..\..\textures\space4\prblue.jpg
+map_Ke \..\..\textures\space4\prblue.jpg
+
+newmtl prfrontmat
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prfront.jpg
+map_Ka \..\..\textures\space4\prfront.jpg
+map_Ke \..\..\textures\space4\prfront.jpg
+
+newmtl prmainmat
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prbottom0.jpg
+
+newmtl prmainmat_NONE
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray5.jpg
+
+newmtl prmainmat_prblue1.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prblue1.jpg
+
+newmtl prmainmat_prbottom.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prbottom.jpg
+
+newmtl prmainmat_prbottom1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prbottom1.jpg
+
+newmtl prmainmat_prbrow2.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prbrow2.jpg
+
+newmtl prmainmat_prbrown.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prbrown.jpg
+
+newmtl prmainmat_prgray1.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray1.jpg
+
+newmtl prmainmat_prgray2.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray2.jpg
+
+newmtl prmainmat_prgray3.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray3.jpg
+
+newmtl prmainmat_prgray4.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray4.jpg
+
+newmtl prmainmat_prgray5.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray5.jpg
+
+newmtl prmainmat_prgreen.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgreen.jpg
+
+newmtl prmainmat_prred.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prred.jpg
+
+newmtl prmainmat_prside
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prside.jpg
+
+newmtl prmainmat_prtop
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prtop.jpg
+
+newmtl prmainmat_prtop1.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prtop1.jpg
+
+newmtl prmainmat_prtopscritta.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prtopscritta.jpg
+
+newmtl prmainmat_prup1.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup1.jpg
+
+newmtl prmainmat_prup2
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup2.jpg
+
+newmtl prmainmat_prup3.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup2.jpg
+
+newmtl prmainmat_prup4.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup4.jpg
+
+newmtl prmainmat_prwhite.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prwhite.jpg
+
+newmtl prmainmat_pryellow.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\pryellow.jpg
+
+newmtl prmainmat_symbol.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.457516 0.457516 0.457516
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\symbol.jpg
+
+newmtl prmatblue2
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prblue2.jpg
+map_Ka \..\..\textures\space4\prblue2.jpg
+map_Ke \..\..\textures\space4\prblue2.jpg
+
+newmtl prmategreen1
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgreen1.jpg
+map_Ka \..\..\textures\space4\prgreen1.jpg
+map_Ke \..\..\textures\space4\prgreen1.jpg
+
+newmtl prmaterial
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup1.jpg
+map_Ka \..\..\textures\space4\prup1.jpg
+map_Ke \..\..\textures\space4\prup1.jpg
+
+newmtl prmaterial.001
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.512000 0.512000 0.512000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup1.jpg
+map_Ka \..\..\textures\space4\prup1.jpg
+map_Ke \..\..\textures\space4\prup1.jpg
+
+newmtl prmatred
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prred.jpg
+map_Ka \..\..\textures\space4\prred.jpg
+map_Ke \..\..\textures\space4\prred.jpg
+
+newmtl prmatred_prgreen1.jpg
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgreen1.jpg
+map_Ka \..\..\textures\space4\prred.jpg
+map_Ke \..\..\textures\space4\prred.jpg
+
+newmtl prmatwhite
+Ns 92.156863
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prwhite.jpg
+map_Ka \..\..\textures\space4\prwhite.jpg
+map_Ke \..\..\textures\space4\prwhite.jpg
+
+newmtl prside1mat
+Ns 174.509804
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prup2.jpg
+map_Ka \..\..\textures\space4\prup2.jpg
+map_Ke \..\..\textures\space4\prup2.prup3jpg
+
+newmtl scifi_column
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\column_UVMap_color.jpg
+map_Bump \..\..\textures\space4\column_UVMap_nmap.jpg
+
+newmtl window_shutter
+Ns 92.156863
+Ka 1.000000 1.000000 1.000000
+Kd 0.189189 0.189189 0.189189
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd \..\..\textures\space4\prgray2.jpg
