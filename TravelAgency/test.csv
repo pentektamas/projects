@@ -1,0 +1,8 @@
+nrAvion,nrLocuri,tip,liniaAeriana,durataZborului,plecare,sosire,pretBilet,
+1234,200,Charter,Lufthansa,120,Cluj-Napoca,Corfu,780
+1235,248,LowCost,WizzAir,90,Cluj-Napoca,Rome,120
+1236,150,LowCost,Ryanair,170,Budapest,London,240
+1237,200,LowCost,WizzAir,100,Cluj-Napoca,Munchen,340
+1238,174,Charter,KLM,170,Cluj-Napoca,Amsterdam,600
+1239,120,Charter,WizzAir,100,Bucharest,Amsterdam,600
+1240,149,LowCost,WizzAir,170,Bucharest,Paris,600
