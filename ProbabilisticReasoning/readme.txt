@@ -1,0 +1,1 @@
+This project is about probabilistic reasoning, it's a Jupyter Notebook project, which analyzes the 5 year survival of brain cancer, risk factors, treatments and the probability of the recurrence. For this a bayesian network was constructed.
