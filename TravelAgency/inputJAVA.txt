@@ -1,0 +1,56 @@
+	Avion a1 = new Avion(1234, 200, "Charter", "Lufthansa", 120, "Cluj-Napoca", "Corfu", 780);
+	Avion a2 = new Avion(1235, 250, "LowCost", "WizzAir", 90, "Cluj-Napoca", "Rome", 120);
+	Avion a3 = new Avion(1236, 150, "LowCost", "Ryanair", 170, "Budapest", "London", 240);
+	Avion a4 = new Avion(1237, 200, "LowCost", "WizzAir", 100, "Cluj-Napoca", "Munchen", 340);
+	Avion a5 = new Avion(1238, 175, "Charter", "KLM", 170, "Cluj-Napoca", "Amsterdam", 600);
+	Avion a6 = new Avion(1239, 120, "Charter", "WizzAir", 100, "Bucharest", "Amsterdam", 600);
+	Avion a7 = new Avion(1240, 150, "LowCost", "WizzAir", 170, "Bucharest", "Paris", 600);
+	avioane.add(a1);
+	avioane.add(a2);
+	avioane.add(a3);
+	avioane.add(a4);
+	avioane.add(a5);
+	avioane.add(a6);
+	avioane.add(a7);
+
+			ContUtilizator cont1 = new ContUtilizator("first", "pass1");
+			ContUtilizator cont2 = new ContUtilizator("second", "pass2");
+			ContUtilizator cont3 = new ContUtilizator("third", "pass3");
+			ContUtilizator cont4 = new ContUtilizator("fourth", "pass4");
+			ContUtilizator cont5 = new ContUtilizator("fifth", "pass5");
+			Utilizator user1 = new Utilizator("Pentek Tamas", 22, "New Street 2.", "email@email.com", "0761456987",
+					"Administrator", cont1);
+			Utilizator user2 = new Utilizator("Pop Bogdan", 28, "New Street 3.", "email2@email.com", "0756987439",
+					"Administrator", cont2);
+			Utilizator user3 = new Utilizator("Popescu Ioan", 25, "New Street 23.", "email3@email.com", "0741236578",
+					"Employee", cont3);
+			Utilizator user4 = new Utilizator("Moldovan Adelina", 21, "New Street 4.", "email44@email.com", "0763218549",
+					"Employee", cont4);
+			Utilizator user5 = new Utilizator("Muresan Stefan", 27, "New Street 4.", "email44@email.com", "0741789526",
+					"Employee", cont5);
+			utilizatori.add(user1);
+			utilizatori.add(user2);
+			utilizatori.add(user3);
+			utilizatori.add(user4);
+			utilizatori.add(user5);
+
+			Calator c1 = new Calator("Popa George", 22, "New Street 7.", "mail.com", "3456789765", "978654324567");
+			Calator c2 = new Calator("Craciun Bogdan", 21, "New Street 8.", "mail.com", "3456789765", "978654324567");
+			Calator c3 = new Calator("Pop Maria", 26, "New Street 7.", "mail.com", "3456789765", "978654324567");
+			calatori.add(c1);
+			calatori.add(c2);
+			calatori.add(c3);
+
+
+		Bilet b1 = new Bilet(9876, "Cluj-Napoca", "Amsterdam", "03.11.2020", 600);
+		Bilet b2 = new Bilet(9875, "Cluj-Napoca", "Rome", "12.09.2020", 120);
+		Bilet b3 = new Bilet(9874, "Cluj-Napoca", "Rome", "23.12.2020", 120);
+		Bilet b4 = new Bilet(9873, "Cluj-Napoca", "Amsterdam", "05.11.2020", 600);
+		Bilet b5 = new Bilet(9872, "Bucharest", "Paris", "21.08.2020", 600);
+		Bilet b6 = new Bilet(9871, "Cluj-Napoca", "Corfu", "15.07.2020", 780);
+		bilete.add(b1);
+		bilete.add(b2);
+		bilete.add(b3);
+		bilete.add(b4);
+		bilete.add(b5);
+		bilete.add(b6);
