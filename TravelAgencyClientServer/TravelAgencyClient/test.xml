@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<avionList>
+    <avioane>
+        <durataZborului>120</durataZborului>
+        <liniaAeriana>Lufthansa</liniaAeriana>
+        <nrAvion>1234</nrAvion>
+        <nrLocuri>119</nrLocuri>
+        <plecare>Cluj-Napoca</plecare>
+        <pretBilet>780</pretBilet>
+        <sosire>Corfu</sosire>
+        <tip>Charter</tip>
+    </avioane>
+    <avioane>
+        <durataZborului>90</durataZborului>
+        <liniaAeriana>Wizzair</liniaAeriana>
+        <nrAvion>1235</nrAvion>
+        <nrLocuri>148</nrLocuri>
+        <plecare>Cluj-Napoca</plecare>
+        <pretBilet>120</pretBilet>
+        <sosire>Rome</sosire>
+        <tip>Low Cost</tip>
+    </avioane>
+    <avioane>
+        <durataZborului>170</durataZborului>
+        <liniaAeriana>Ryanair</liniaAeriana>
+        <nrAvion>1236</nrAvion>
+        <nrLocuri>200</nrLocuri>
+        <plecare>Budapest</plecare>
+        <pretBilet>240</pretBilet>
+        <sosire>London</sosire>
+        <tip>Low Cost</tip>
+    </avioane>
+    <avioane>
+        <durataZborului>100</durataZborului>
+        <liniaAeriana>WizzAir</liniaAeriana>
+        <nrAvion>1237</nrAvion>
+        <nrLocuri>150</nrLocuri>
+        <plecare>Cluj-Napoca</plecare>
+        <pretBilet>340</pretBilet>
+        <sosire>Munich</sosire>
+        <tip>Low Cost</tip>
+    </avioane>
+    <avioane>
+        <durataZborului>170</durataZborului>
+        <liniaAeriana>KLM</liniaAeriana>
+        <nrAvion>1238</nrAvion>
+        <nrLocuri>174</nrLocuri>
+        <plecare>Cluj-Napoca</plecare>
+        <pretBilet>600</pretBilet>
+        <sosire>Amsterdam</sosire>
+        <tip>Charter</tip>
+    </avioane>
+    <avioane>
+        <durataZborului>100</durataZborului>
+        <liniaAeriana>Wizzair</liniaAeriana>
+        <nrAvion>1239</nrAvion>
+        <nrLocuri>120</nrLocuri>
+        <plecare>Bucharest</plecare>
+        <pretBilet>600</pretBilet>
+        <sosire>Amsterdam</sosire>
+        <tip>Charter</tip>
+    </avioane>
+    <avioane>
+        <durataZborului>170</durataZborului>
+        <liniaAeriana>Wizzair</liniaAeriana>
+        <nrAvion>1240</nrAvion>
+        <nrLocuri>150</nrLocuri>
+        <plecare>Bucharest</plecare>
+        <pretBilet>600</pretBilet>
+        <sosire>Paris</sosire>
+        <tip>Low Cost</tip>
+    </avioane>
+</avionList>
